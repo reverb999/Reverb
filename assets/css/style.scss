@@ -14,3 +14,18 @@
     border-radius: 0 0 12px 12px;
     color: #e593e5
 }
+
+#holderMain{
+    display: flex;
+    flex-direction: row;
+}
+
+#pic_holder{
+    height: auto;
+    width: 100px;
+}
+
+#pic1, #pic2, #pic3{
+    width: auto;
+    height: 220px;
+}

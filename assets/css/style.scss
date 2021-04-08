@@ -35,9 +35,13 @@
     width: 100px;
 }
 
-#pic1, #pic2, #pic3, #pic4{
+#pic1,#pic2,#pic3,#pic4 {
     width: auto;
-    height: 211.5px;
+    height: 205px;
+    border: 2px solid black;
+    margin: 5px;
+    background: black;
+    box-shadow: 0 0 8px 4px pink;
 }
 
 #pic1:hover, #pic2:hover, #pic3:hover, #pic4:hover{

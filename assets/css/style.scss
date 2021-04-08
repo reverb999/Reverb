@@ -43,3 +43,7 @@
 #pic1:hover, #pic2:hover, #pic3:hover, #pic4:hover{
     cursor: pointer
 }
+
+header.inner, footer.inner,#main_content.inner{
+    max-width: 100%;
+}

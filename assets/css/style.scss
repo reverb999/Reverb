@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: 'Font';
+    src: url('https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2');
+  }
+  
+   body{
+    font-family: 'Font';
+  }
+  
+
 #header_wrap, #footer_wrap, body, #footer_wrap{
     background: #e593e5
 }

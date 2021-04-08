@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header_wrap, #footer_wrap, body, #footer_wrap{
+    background: #e593e5
+}
